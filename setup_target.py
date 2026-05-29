@@ -1,7 +1,6 @@
 username = "Fahad"
 role = "Student"
-Target = "google.com"
+sentence = username + " is a " + role
 
-print(username)
-print(role)
-print(Target)
+print(sentence)
+
