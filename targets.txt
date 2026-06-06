@@ -1,0 +1,4 @@
+targets.txt
+google.com
+meta.com
+attacker.com
